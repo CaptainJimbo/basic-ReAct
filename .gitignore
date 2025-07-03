@@ -129,6 +129,7 @@ celerybeat.pid
 
 # Environments
 .env
+.react_venv
 .venv
 env/
 venv/
